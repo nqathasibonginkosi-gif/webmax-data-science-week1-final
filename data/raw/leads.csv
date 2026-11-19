@@ -1,0 +1,64 @@
+lead_id,lead_created_at,source,status,estimated_value_zar
+LD-001,2026-11-11,WhatsApp,Not Interested,4000
+LD-002,2026-10-19,Referral,New,1500
+LD-003,2026-10-17,Social Media,Interested,4000
+LD-004,2026-10-24,WhatsApp,Contacted,2500
+LD-005,2026-10-16,WhatsApp,New,20000
+LD-006,2026-11-10,Social Media,Not Interested,1500
+LD-007,2026-11-09,WhatsApp,Follow-up,20000
+LD-008,2026-10-04,WhatsApp,Interested,1500
+LD-009,2026-11-11,WhatsApp,Interested,2500
+LD-010,2026-11-09,Google Ads,Converted,20000
+LD-011,2026-10-15,Social Media,Contacted,1500
+LD-012,2026-10-26,Google Ads,Not Interested,1500
+LD-013,2026-11-13,Social Media,New,2500
+LD-014,2026-10-30,Referral,Interested,12000
+LD-015,2026-10-04,Referral,Not Interested,1500
+LD-016,2026-10-29,Referral,Interested,12000
+LD-017,2026-11-06,WhatsApp,New,4000
+LD-018,2026-10-29,WhatsApp,Interested,1500
+LD-019,2026-10-24,Referral,Interested,2500
+LD-020,2026-10-31,Google Ads,Converted,1500
+LD-021,2026-11-03,Referral,Contacted,2500
+LD-022,2026-11-01,Social Media,New,4000
+LD-023,2026-10-22,Website,Follow-up,4000
+LD-024,2026-11-10,Website,Interested,4000
+LD-025,2026-11-05,Website,Interested,7500
+LD-026,2026-10-30,Google Ads,Converted,1500
+LD-027,2026-11-07,Website,Interested,2500
+LD-028,2026-10-31,Social Media,Converted,20000
+LD-029,2026-10-08,Website,Converted,1500
+LD-030,2026-10-24,Referral,Interested,20000
+LD-031,2026-11-09,Website,New,12000
+LD-032,2026-10-28,WhatsApp,Not Interested,7500
+LD-033,2026-10-01,Referral,Interested,20000
+LD-034,2026-10-01,Social Media,Contacted,2500
+LD-035,2026-10-25,Referral,Not Interested,4000
+LD-036,2026-10-25,Website,Interested,1500
+LD-037,2026-10-12,Website,New,4000
+LD-038,2026-10-15,Referral,Follow-up,12000
+LD-039,2026-10-31,Website,Contacted,12000
+LD-040,2026-10-24,Google Ads,New,20000
+LD-041,2026-11-01,Referral,Interested,12000
+LD-042,2026-10-30,Referral,Follow-up,4000
+LD-043,2026-11-12,Referral,Converted,2500
+LD-044,2026-10-22,Social Media,Not Interested,1500
+LD-045,2026-10-15,Website,Follow-up,12000
+LD-046,2026-11-09,Social Media,Not Interested,1500
+LD-047,2026-10-16,WhatsApp,Interested,4000
+LD-048,2026-10-03,Referral,New,7500
+LD-049,2026-10-06,Google Ads,Contacted,2500
+LD-050,2026-11-04,Website,Contacted,7500
+LD-051,2026-10-04,Social Media,Converted,12000
+LD-052,2026-10-29,Social Media,New,2500
+LD-053,2026-10-18,Social Media,Contacted,1500
+LD-054,2026-11-05,Social Media,Converted,7500
+LD-055,2026-10-24,Google Ads,Not Interested,12000
+LD-056,2026-10-14,WhatsApp,Not Interested,2500
+LD-057,2026-10-11,Website,Interested,2500
+LD-058,2026-11-03,Referral,Not Interested,4000
+LD-059,2026-10-25,WhatsApp,Interested,1500
+LD-060,2026-10-16,Social Media,New,12000
+LD-058,2026-11-03,Referral, follow-up ,4000
+LD-061,not-a-date,Website,New,bad-number
+LD-062,2026-11-12,,Converted,12000
